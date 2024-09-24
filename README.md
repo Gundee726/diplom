@@ -1,0 +1,2 @@
+# diplom
+Diploma real
